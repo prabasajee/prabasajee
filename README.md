@@ -119,13 +119,6 @@ I'm a passionate IT professional with a strong foundation in networking and mobi
 </div>
 
 ---
-
-## 🏙️ My GitHub Skyline
-
-Check out my 3D GitHub contribution history: [GitHub Skyline Repository](https://github.com/prabasajee/my-github-skyline)
-
----
-
 <div align="center">
   
   ### 💭 Quote of the Day

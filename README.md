@@ -18,9 +18,6 @@ I'm a passionate IT professional with a strong foundation in networking and mobi
 - Contributing to open-source projects
 - Building my professional network in tech
 
-### 🔥 Recent Achievement:
-- Generated my **3D GitHub Skyline** using the GitHub CLI extension! 🏙️
-
 ---
 
 <p align="left"> 
